@@ -1,2 +1,1 @@
-//your JS code here. If required.
-window.onload=
+document.write('DOM load success');
